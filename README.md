@@ -1,5 +1,7 @@
 <h1>Hi, I'm Dipashree! </h1>
 
+[![An image of @deepashreeee's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/deepashreeee)](https://holopin.io/@deepashreeee)
+
 <h4>✨ Certifications</h4>
 
 - [Docker professional certificate](https://www.linkedin.com/learning/certificates/61b7e1ab792ee133461e547d46414612467bc81b69d7c428e9ad0a1864f91a3f?trk=share_certificate)
